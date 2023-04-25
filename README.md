@@ -7,8 +7,8 @@
 <p>
 
 # go to coursework file
-# find coursework.c
-# open the code
-## comments has not been written
+## find coursework.c
+## open the code
+### comments has not been written
 > write it by yourself
 
