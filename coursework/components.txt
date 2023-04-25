@@ -1,0 +1,3 @@
+Resistor1,1000,0,0
+Capacitor1,0,10e-6,0
+Inductor1,0,0,0.01
