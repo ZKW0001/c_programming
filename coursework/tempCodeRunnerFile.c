@@ -1,2 +1,1 @@
-        // charge_mean = charge_sum / num;
-        // energy_mean = energy_sum / num;
+s = 1;   //change status to 1, which means the file is not read successfully
