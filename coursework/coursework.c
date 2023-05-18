@@ -18,7 +18,7 @@ Pointers are being used to store and access data in arrays during the process of
 the total program to be more efficient in terms of memory usage and speed. Array can now be accessed without having to make a copy of the
 entire array.
 
-Functions are being used to make the code more readable and easier to debug. The functions are declared on the top of the code.
+Functions are being used to make the code more readable and easier to debug. The functions are being declared on the top of the code.
 
 Errors are being handled in various ways. For example, the program will report an error when reading the txt file failed printing out the 
 error code and description. The program will also terminate when memory allocation fails or when the data in the file is not in the correct 
