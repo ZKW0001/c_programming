@@ -1,12 +1,16 @@
 #include <stdio.h>
 
+int new(){
+        int k, i = 1;
+        k = i;
+        return k;
+    }
+
+
 int main(void)
 {
-   int j, n = 1;
-   while (n != j){
-    n++;
-    j--;
-    printf("j = %d\n", j);
-}
+    printf("j = %d\n", new());
+    printf("j = %d\n", new());
+
 return 0;
 }

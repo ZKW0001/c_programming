@@ -4,7 +4,7 @@ int main(){
 
     char sentence[80];
     printf("enter a sentence: ");
-    gets(sentence);
+    // gets(sentence);
 
     printf("%s",sentence);
 
