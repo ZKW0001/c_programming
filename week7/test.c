@@ -1,4 +1,4 @@
-#include <stdio.h>vvv
+#include <stdio.h>
 
 struct Sensor{ /* 2 marks for having sensor struct in correct place */
 unsigned int SENSOR_ID;
