@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#include <stdio.h>
+#include <stdio.h>d
 
 void swap (int *p, int *q) {
         /* save the value pointed to by p in a temporary variable: */
